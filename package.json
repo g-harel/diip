@@ -1,0 +1,22 @@
+{
+  "name": "diip",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g-harel/diip"
+  },
+  "author": "g-harel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/g-harel/diip/issues"
+  },
+  "homepage": "https://github.com/g-harel/diip#readme",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
